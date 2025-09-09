@@ -30,6 +30,6 @@ ModelSim (functional verification)
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](www.linkedin.com/in/priyavarsini-jm-74957927a)
+[![LinkedIn]www.linkedin.com/in/priyavarsini-jm-74957927a
 
 
