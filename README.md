@@ -25,3 +25,11 @@ Conceptual shift from generic Verilog RAM implementation to tool-generated IP bl
 Tools Used
 Quartus II targeting an Altera CycloneII FPGA (Megafunction Wizard, design entry)
 ModelSim (functional verification)
+
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](www.linkedin.com/in/priyavarsini-jm-74957927a)
+
+
